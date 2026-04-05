@@ -1,0 +1,6 @@
+anthropic
+yfinance
+requests
+python-telegram-bot
+feedparser
+python-dotenv
